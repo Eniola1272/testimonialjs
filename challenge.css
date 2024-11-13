@@ -1,0 +1,81 @@
+.container {
+   display: grid;
+   align-items: center;
+   align-content: center;
+   justify-items: center;
+   justify-content: center;
+}
+
+.title{
+    margin-top: 10vh;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: "Roboto", sans-serif;
+    text-transform: o;
+}
+
+.underline {
+
+}
+
+.review {
+    width: 800px;
+    height: auto;
+    margin: 15vh auto;
+    background-color: #fff;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .3);
+}
+
+.img-container {
+
+}
+
+#person-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#author {
+
+}
+
+#job {
+    text-transform: uppercase;
+}
+
+#info {
+
+}
+
+
+.button-container {
+
+}
+
+.prev-btn {
+
+}
+
+.fas {
+
+}
+
+.fa-chevron-left {
+
+}
+
+.fa-chevron-right {
+
+}
+
+.next-btn {
+
+}
+
+.random-btn {
+
+}
